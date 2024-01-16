@@ -1,12 +1,24 @@
 # cognitive science
 
-    linguistics
-    psychology
     neuroscience
-    philosophy
-    computer science/artificial intelligence
-    anthropology
+        신경과학
 
+    philosophy
+        철학
+
+    computer science/artificial intelligence
+        인공지능
+
+    anthropology
+        인류학
+
+    linguistics
+        언어학
+
+    psychology 
+        심리학
+
+    
 ## artificial intelligence
 
 
